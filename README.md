@@ -1,8 +1,8 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** email@example.com  
-**Student ID:** AI20K-XXXX  
-**Name:** Dien ten cua ban
+**Student Email:** quyenne3704@gmail.com
+**Student ID:** AI-20K-2A202600676
+**Name:** Đào Duy Quyền
 
 ## Mô tả
 
@@ -40,6 +40,7 @@ python -m pytest tests/test_autograder.py -v
 ```
 
 Lệnh này dùng để kiểm tra toàn bộ các yêu cầu của bài lab, bao gồm:
+
 - script có chạy được không
 - validation có loại dữ liệu lỗi không
 - transformation có đúng không
